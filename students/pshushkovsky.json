@@ -1,0 +1,14 @@
+{
+  "firstName": "Paola",
+  "lastName": "Shushkovsky",
+  "nickName": "Paola",
+  "privateName": false,
+  "picture": "images/pshushkovsky.jpg",
+  "privatePicture": false,
+  "email": "paola.shushkovsky@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "pshushkovsky",
+  "privateGithub": false,
+  "superpower" : "I never sleep;",
+  "academicinterests": "Economics, history, politics and philosophy"
+}
